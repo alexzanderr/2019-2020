@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!--Style is located here and works for all tags in the file-->
+        <style>
+            body {
+                background-color: lightblue;
+                text-align: center;
+                font-family: consolas;
+            }
+            h1 {
+              color: red;
+              text-align: center;
+              font-size: 40px;
+              font-family: consolas;
+            }
+            h2 {
+                color: yellow;
+                text-align: center;
+                font-size: 40px;
+                font-family: consolas;
+            }
+            h3 {
+                color: green;
+                text-align: center;
+                font-size: 35px;
+                font-family: consolas;
+            }
+            p {
+                color: green;
+                font-family: consolas;
+                font-size: 35px;
+            }
+        </style>
+
+        <meta charset="UTF-8">
+        <title> Andrew's first website </title>
+    </head>
+
+    <body>
+        <meta charset="UTF-8">
+        <h1> Welcome to Andrew's Realm of magic and happiness. </h1>
+        <p> Here we are trying to learn to web development. </p>
+    </body>
+
+    <body>
+        <meta charset="UTF-8">
+        <h2> Header for body number 2. </h2>
+        <p> Body 2's  paragraph. </p>
+    </body>
+
+    <body>
+        <h3> Header body that has a javascript inside. </h3>
+        <p id="text"> Down here its a button. </p>
+        <button onclick="red()"> Turn red. </button>
+        <button onclick="green()"> Turn green. </button>
+        <script>
+            function green() {
+                var x = document.getElementById("text");
+                x.style.fontSize = "50px";
+                x.style.color = "green";
+            }
+
+            function red() {
+                var x = document.getElementById("text");
+                x.style.fontSize = "50px";
+                x.style.color = "red";
+            }
+        </script>
+    </body>
+
+    <body>
+        <h1> Stop! Hame a time! </h1>
+        <p> Press the button u idiot. </p>
+        <button onclick="Time()"> Display current time. </button>
+        <p id="result"> </p>
+        <script>
+            function Time() {
+                var x = document.getElementById("result");
+                x.innerHTML = Date();
+            }
+        </script>
+
+    </body>
+
+    <body>
+        <h1> Just another header, why not. </h1>
+        <p> There's no paragraph. </p>
+        <p id="output"> </p>
+        <script>
+            var object = {name:"My first OOP in Javascript", value:1000};
+            var par = document.getElementById("output");
+            par.innerHTML = "OOP is here " + object.name + " some text " + object.value;
+        </script>
+    </body>
+
+</html>
