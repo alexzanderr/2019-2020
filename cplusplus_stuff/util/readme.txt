@@ -9,3 +9,5 @@
         class range from python, 
         and built-in functions from python, such as: 
                 print, type, len id, data type conversions and input>
+
+<Of course, these files are not 100% ready, there are many things to do for upgrading them, but its an interesting concept>
