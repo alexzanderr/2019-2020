@@ -1,0 +1,23 @@
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\bin\Debug\[Application Database Form].exe.config
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\bin\Debug\[Application Database Form].exe
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\bin\Debug\[Application Database Form].pdb
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\obj\Debug\_Application_Database_Form_.Properties.Resources.resources
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\obj\Debug\[Application Database Form].csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\obj\Debug\[Application Database Form].csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\obj\Debug\[Application Database Form].exe
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\obj\Debug\[Application Database Form].pdb
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\obj\Debug\_Application_Database_Form_.Extention1.resources
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\obj\Debug\_Application_Database_Form_.AppForm.resources
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\obj\Debug\_Application_Database_Form_.Clock.resources
+C:\Users\Andrew\Desktop\Visual Ballz\[Application Database Form][C#]\[Application Database Form]\[Application Database Form]\obj\Debug\[Application Database Form].csprojAssemblyReference.cache
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\bin\Debug\[Application Database Form].exe.config
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\bin\Debug\[Application Database Form].exe
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\bin\Debug\[Application Database Form].pdb
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\obj\Debug\[Application Database Form].csprojAssemblyReference.cache
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\obj\Debug\_Application_Database_Form_.Clock.resources
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\obj\Debug\_Application_Database_Form_.Extention1.resources
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\obj\Debug\_Application_Database_Form_.AppForm.resources
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\obj\Debug\_Application_Database_Form_.Properties.Resources.resources
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\obj\Debug\[Application Database Form].csproj.GenerateResource.cache
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\obj\Debug\[Application Database Form].exe
+D:\__Alexzander_files__\computer_science\see_sharp_stuff\old cascutit\[Application Database Form]\[Application Database Form]\obj\Debug\[Application Database Form].pdb
